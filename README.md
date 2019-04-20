@@ -1,6 +1,6 @@
 ## Universal_Sentence_Encoder_Text_Summarization
 
-###TextSUM using Universal Sentence Encoder, DNN, MMR Probability:
+### TextSUM using Universal Sentence Encoder, DNN, MMR Probability:
 
     * Build a model with 3 layers:
     
@@ -9,7 +9,7 @@
     * Model return probability of each sentence of document
     * using MMR_probability tool to select sentences and make summary
  
- ###Result Rouge1
+ ### Result Rouge1
  
    - LEAD3: 31.7
    - TextRank:
